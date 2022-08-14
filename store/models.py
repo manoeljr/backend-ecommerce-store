@@ -45,7 +45,7 @@ class ProductType(models.Model):
 
     class Meta:
         verbose_name = _('Product Type')
-        verbose_name_plura = _('Product Types')
+        verbose_name_plural = _('Product Types')
 
     def __str__(self):
         return self.name
@@ -106,7 +106,7 @@ class Product(models.Model):
     updated_at = models.DateTimeField(_('Updated at'), auto_now=True)
 
     class Meta:
-        ordering = ('-created_at')
+        ordering = ('-created_at',)
         verbose_name = _('Product')
         verbose_name_plural = _('Products')
 
