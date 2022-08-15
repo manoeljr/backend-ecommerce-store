@@ -1,4 +1,6 @@
-### Projetos de estudos com as tecnologias DjangoRest e NextJS, Desenvolvido na Very Academy
+### Projetos de estudos com as , desenvolvido na Very Academy
+
+#### Tecnologias envolvidas DjangoRest e NextJS
 
 #### Modelagem do projeto
 <p align="center">
