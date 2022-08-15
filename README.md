@@ -1,8 +1,6 @@
-### Projetos de estudos com as tecnologias DjangoRest e NextJS
+### Projetos de estudos com as tecnologias DjangoRest e NextJS, Desenvolvido na Very Academy
 
-#### Desenvolvido na Very Academy
-
-#### Modelagem 
+#### Modelagem do projeto
 <p align="center">
-<img src="https://github.com/manoeljr/backend-ecommerce-store/blob/main/_documentation/modelagem.png" alt=""/>
+<img src="https://github.com/manoeljr/backend-ecommerce-store/blob/main/_documentation/modelagem.png" />
 </p>
