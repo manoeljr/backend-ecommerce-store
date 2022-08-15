@@ -4,5 +4,5 @@
 
 #### Modelagem 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=manoeljr&show_icons=true&theme=nightowl" alt=""/>
+<img src="https://github.com/manoeljr/backend-ecommerce-store/blob/main/_documentation/modelagem.png" alt=""/>
 </p>
